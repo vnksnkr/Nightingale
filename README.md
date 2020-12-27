@@ -5,4 +5,5 @@ A device that can dispense medication automatically depending upon a schedule se
 - Sarath C
 - Afrin AS
 - Vinayak Sankar
+
 Developed during GEC HACKS 2020
